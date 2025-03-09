@@ -19,7 +19,7 @@ Ele inclui funcionalidades como adicionar, remover, agrupar e ordenar funcionár
 
 ## Como Executar 🛠️
 
-Trata-se de um projeto Maven, mas não há nenuma dependência.
+Trata-se de um projeto Maven, mas não há nenhuma dependência.
 
 1. Execute a classe principal `Principal` para ver os resultados.
 
